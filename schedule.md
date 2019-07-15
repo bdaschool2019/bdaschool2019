@@ -58,7 +58,7 @@ permalink: /schedule/
 * 9:00-19:00, Social evnet, the details are coming soon ...
 
 ## Aug. 11, 2019
-* Free times!
+* Free time!
 
 ## Aug. 12, 2019
 * 9:00-10:00, B2C, B2B and B2BC Entrepreneurial Journeys, [Jens Ohlsson](https://www.linkedin.com/in/jens-ohlsson-968b303/) [slides]
