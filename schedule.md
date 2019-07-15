@@ -7,7 +7,7 @@ permalink: /schedule/
 
 <br><br>
 ## Aug. 5, 2019
-* 9:00-10:00, Welcome speech, [Amir H. Payberah](https://payberah.github.io/) [slides]
+* 9:00-10:00, Welcome speech, [Amir H. Payberah](https://payberah.github.io/) and [Jens Ohlsson](https://www.linkedin.com/in/jens-ohlsson-968b303/) [slides]
 * 10:00-10:30, Coffee break
 * 10:30-11:15, Pelatrion, [Anders Arpteg](https://www.linkedin.com/in/andersarpteg/), [slides]
 * 11:15-12:00, GreatPeople, [Boris Nordenstrom](https://www.linkedin.com/in/nordenstrom/), [slides]
@@ -25,9 +25,9 @@ permalink: /schedule/
 * 10:30-11:15, Ericsson Research, [Ahsan Javed Awan](https://www.linkedin.com/in/ahsanjavedawan/), [slides]
 * 11:15-12:00, Hive Streaming, [Stefanos Antaris](https://www.linkedin.com/in/stefanosantaris/), [slides]
 * 12:00-13:00, Lunch
-* 13:00-15:00, I&E talk, [Jens Ohlsson](https://www.linkedin.com/in/jens-ohlsson-968b303/), [slides]
+* 13:00-15:00, Hackathon, [Tolga Varol](https://www.linkedin.com/in/tolgavarol/), [slides]
 * 15:00-15:30, Coffee break
-* 15:30-17:00, I&E talk, [Jens Ohlsson](https://www.linkedin.com/in/jens-ohlsson-968b303/), [slides]
+* 15:30-17:00, Hackathon, [Tolga Varbol](https://www.linkedin.com/in/tolgavarol/), [slides]
 
 ## Aug. 7, 2019
 * 9:00-10:00, Crash course on Spark, [Amir H. Payberah](https://payberah.github.io/) [slides]
@@ -53,3 +53,48 @@ permalink: /schedule/
 * 9:00-10:00, Introduction to Stream Processing, [Paris Carbone](https://www.linkedin.com/in/paris-carbone-20752726/) [slides]
 * 12:00-13:00, Lunch
 * 9:00-10:00, Introduction to Flink, [Maximilian Michels](https://www.linkedin.com/in/maximilian-michels-3997299b/) [slides]
+
+## Aug. 10, 2019
+* 9:00-19:00, Social evnet, the details are coming soon ...
+
+## Aug. 11, 2019
+* Free times!
+
+## Aug. 12, 2019
+* 9:00-10:00, B2C, B2B and B2BC Entrepreneurial Journeys, [Jens Ohlsson](https://www.linkedin.com/in/jens-ohlsson-968b303/) [slides]
+* 10:00-10:30, Coffee break
+* 10:30-12:00, B2C, B2B and B2BC Entrepreneurial Journeys, [Jens Ohlsson](https://www.linkedin.com/in/jens-ohlsson-968b303/) [slides]
+* 12:00-13:00, Lunch
+* 13:00-15:00, Intrapreneurship and how to combine the Core Tech Capabilities, [Jörgen Clevensjö](https://www.linkedin.com/in/j%C3%B6rgen-clevensj%C3%B6-a8426b7/) [slides]
+* 15:00-15:30, Coffee break
+* 15:30-17:30, Intelligent Connections, [Jörgen Clevensjö](https://www.linkedin.com/in/j%C3%B6rgen-clevensj%C3%B6-a8426b7/) [slides]
+
+## Aug. 13, 2019
+* 9:00-10:00, How to make a killer pitch, [Tobias Vahlne](https://www.linkedin.com/in/tobiasvahlne/) [slides]
+* 10:00-10:30, Coffee break
+* 10:30-12:00, How to make a killer pitch, [Tobias Vahlne](https://www.linkedin.com/in/tobiasvahlne/) [slides]
+* 12:00-13:00, Lunch
+* 13:00-15:00, Teamwork
+* 15:00-15:30, Coffee break
+* 15:30-17:30, Teamwork
+
+## Aug. 14, 2019
+* 9:00-10:00, Teamwork
+* 10:00-10:30, Coffee break
+* 10:30-12:00, Teamwork
+* 12:00-13:00, Lunch
+* 13:00-15:00, Teamwork
+* 15:00-15:30, Coffee break
+* 15:30-17:30, Teamwork
+
+## Aug. 15, 2019
+* 9:00-10:00, Teamwork
+* 10:00-10:30, Coffee break
+* 10:30-12:00, Teamwork
+* 12:00-13:00, Lunch
+* 13:00-15:00, Pitch Rehersal, [Jens Ohlsson](https://www.linkedin.com/in/jens-ohlsson-968b303/) and [Tobias Vahlne](https://www.linkedin.com/in/tobiasvahlne/)
+* 15:00-15:30, Coffee break
+* 15:30-17:30, Pitch Rehersal, [Jens Ohlsson](https://www.linkedin.com/in/jens-ohlsson-968b303/) and [Tobias Vahlne](https://www.linkedin.com/in/tobiasvahlne/)
+
+## Aug. 17, 2019
+* 9:00-19:00, The details are coming soon ...

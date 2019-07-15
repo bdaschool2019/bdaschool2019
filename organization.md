@@ -17,4 +17,5 @@ permalink: /organization/
 <ul>
 <li><a href="https://www.kth.se/profile/annicj">Annica Johannesson</a>, KTH Royal Institute of Technology</li>
 <li><a href="https://www.kth.se/profile/anniwe">Annika Wendell</a>, KTH Royal Institute of Technology</li>
+<li><a href="https://www.kth.se/profile/berthel">Maria Berthelius</a>, KTH Royal Institute of Technology</li>
 </ul>
