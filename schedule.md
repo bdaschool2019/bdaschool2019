@@ -17,7 +17,7 @@ permalink: /schedule/
 * 14:20-15:00, RaySearch, [Fredrik Löfman](https://www.linkedin.com/in/fredrik-l%C3%B6fman-734883/) [slides]
 * 15:00-15:30, Coffee break
 * 15:30-16:10, Spotify, [Kiarash Rezahanjani](https://www.linkedin.com/in/rezahanjani/) [slides]
-* 16:10-17:00, King, [Lele Cao](https://www.linkedin.com/in/caolele/) [slides]
+* 16:10-17:00, King, [Lele Cao](https://www.linkedin.com/in/caolele/) and [Sahar Asadi](https://www.linkedin.com/in/saharasadi/) [slides]
 
 ## Aug. 6, 2019
 * 9:00-10:00, AIG/Oxford University, [Reza Khorshidi](https://www.linkedin.com/in/rezakhorshidi/) [slides]
