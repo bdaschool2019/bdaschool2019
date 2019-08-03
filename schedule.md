@@ -25,14 +25,14 @@ permalink: /schedule/
 * 10:30-11:15, Ericsson Research, [Ahsan Javed Awan](https://www.linkedin.com/in/ahsanjavedawan/)
 * 11:15-12:00, Hive Streaming, [Stefanos Antaris](https://www.linkedin.com/in/stefanosantaris/)
 * 12:00-13:00, Lunch
-* 13:00-15:00, Hackathon, [Tolga Varol](https://www.linkedin.com/in/tolgavarol/)
+* 13:00-15:00, Hackathon, [Tolga Varol](https://www.linkedin.com/in/tolgavarol/) and [Shruti Kuber](https://www.linkedin.com/in/shruti-kuber/)
 * 15:00-15:30, Coffee break
-* 15:30-17:00, Hackathon, [Tolga Varbol](https://www.linkedin.com/in/tolgavarol/)
+* 15:30-17:00, Hackathon, [Tolga Varbol](https://www.linkedin.com/in/tolgavarol/) and [Shruti Kuber](https://www.linkedin.com/in/shruti-kuber/)
 
 ## Aug. 7, 2019
 * 9:00-10:00, Crash course on Spark, [Amir H. Payberah](https://payberah.github.io/)
 * 10:00-10:30, Coffee break
-* 10:30-11:15, Crash course on Spark, [Amir H. Payberah](https://payberah.github.io/)
+* 10:30-12:00, Crash course on Spark, [Amir H. Payberah](https://payberah.github.io/)
 * 12:00-13:00, Lunch
 * 13:00-15:00, Crash course on Spark, [Amir H. Payberah](https://payberah.github.io/)
 * 15:00-15:30, Coffee break
@@ -42,18 +42,20 @@ permalink: /schedule/
 ## Aug. 8, 2019
 * 9:00-10:00, Crash course on Neo4j, [Stefan Wendin](https://www.linkedin.com/in/stefanwendin/)
 * 10:00-10:30, Coffee break
-* 9:00-10:00, Crash course on Neo4j, [Stefan Wendin](https://www.linkedin.com/in/stefanwendin/)
+* 10:30-12:00, Crash course on Neo4j, [Stefan Wendin](https://www.linkedin.com/in/stefanwendin/)
 * 12:00-13:00, Lunch
-* 9:00-10:00, Crash course on Neo4j, [Stefan Wendin](https://www.linkedin.com/in/stefanwendin/)
+* 13:00-15:00, Crash course on Neo4j, [Stefan Wendin](https://www.linkedin.com/in/stefanwendin/)
 * 15:00-15:30, Coffee break
 * 15:30-17:00, Introduction to HOPS Platform, [Kim Hammar](https://www.linkedin.com/in/kim-hammar-9963aba6/)
 
 ## Aug. 9, 2019
 * 9:00-10:00, Swedbank, [Fatemeh Rahimian](https://www.linkedin.com/in/fatemeh-rahimian-0734bb24/)
 * 10:00-10:30, Coffee break
-* 9:00-10:00, Introduction to Stream Processing, [Paris Carbone](https://www.linkedin.com/in/paris-carbone-20752726/) and [Maximilian Michels](https://www.linkedin.com/in/maximilian-michels-3997299b/)
+* 10:30-12:00, Introduction to Stream Processing, [Paris Carbone](https://www.linkedin.com/in/paris-carbone-20752726/) and [Maximilian Michels](https://www.linkedin.com/in/maximilian-michels-3997299b/)
 * 12:00-13:00, Lunch
-* 9:00-10:00, Introduction to Flink, [Paris Carbone](https://www.linkedin.com/in/paris-carbone-20752726/) and [Maximilian Michels](https://www.linkedin.com/in/maximilian-michels-3997299b/)
+* 13:00-15:00, Introduction to Flink, [Paris Carbone](https://www.linkedin.com/in/paris-carbone-20752726/) and [Maximilian Michels](https://www.linkedin.com/in/maximilian-michels-3997299b/)
+* 15:00-15:30, Coffee break
+* 15:30-17:00, Business Model Innovation and Understanding Customers, [Serdar Temiz](https://www.linkedin.com/in/serdartemiz/)
 
 ## Aug. 10, 2019
 * 9:00-19:00, Social evnet, the details are coming soon ...
