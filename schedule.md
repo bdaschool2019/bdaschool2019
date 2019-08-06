@@ -9,10 +9,10 @@ permalink: /schedule/
 ## Aug. 5, 2019
 * 9:30-10:00, Welcome speech, [Amir H. Payberah](https://payberah.github.io/) [[slides](/files/intro.pdf)]
 * 10:00-10:30, Coffee break
-* 10:30-11:15, Peltarion, [Anders Arpteg](https://www.linkedin.com/in/andersarpteg/)
+* 10:30-11:15, Peltarion, [Anders Arpteg](https://www.linkedin.com/in/andersarpteg/) [[slides](/files/peltarion.pdf)]
 * 11:15-12:00, GreatPeople, [Boris Nordenstrom](https://www.linkedin.com/in/nordenstrom/)
 * 12:00-13:00, Lunch
-* 13:00-13:40, Qamcom, [Nasim Farahini](https://www.linkedin.com/in/nasim-farahini-814a8047/)
+* 13:00-13:40, Qamcom, [Nasim Farahini](https://www.linkedin.com/in/nasim-farahini-814a8047/) [[slides](/files/qamcom.pdf)]
 * 13:40-14:20, Racefox, [Christer Norström](https://www.linkedin.com/in/christer-norstr%C3%B6m-7859383/)
 * 14:20-15:00, RaySearch, [Fredrik Löfman](https://www.linkedin.com/in/fredrik-l%C3%B6fman-734883/)
 * 15:00-15:30, Coffee break
