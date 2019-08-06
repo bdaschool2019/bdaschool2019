@@ -23,7 +23,7 @@ permalink: /schedule/
 * 9:00-10:00, AIG/Oxford University, [Reza Khorshidi](https://www.linkedin.com/in/rezakhorshidi/)
 * 10:00-10:30, Coffee break
 * 10:30-11:15, Ericsson Research, [Ahsan Javed Awan](https://www.linkedin.com/in/ahsanjavedawan/) [[slides](/files/ericsson.pdf)]
-* 11:15-12:00, Hive Streaming, [Stefanos Antaris](https://www.linkedin.com/in/stefanosantaris/)
+* 11:15-12:00, Hive Streaming, [Stefanos Antaris](https://www.linkedin.com/in/stefanosantaris/) [[slides](/files/hivestreaming.pptx)]
 * 12:00-13:00, Lunch
 * 13:00-15:00, Hackathon, [Tolga Varol](https://www.linkedin.com/in/tolgavarol/) and [Shruti Kuber](https://www.linkedin.com/in/shruti-kuber/)
 * 15:00-15:30, Coffee break
