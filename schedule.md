@@ -14,7 +14,7 @@ permalink: /schedule/
 * 12:00-13:00, Lunch
 * 13:00-13:40, Qamcom, [Nasim Farahini](https://www.linkedin.com/in/nasim-farahini-814a8047/) [[slides](/files/qamcom.pdf)]
 * 13:40-14:20, Racefox, [Christer Norström](https://www.linkedin.com/in/christer-norstr%C3%B6m-7859383/)
-* 14:20-15:00, RaySearch, [Fredrik Löfman](https://www.linkedin.com/in/fredrik-l%C3%B6fman-734883/)
+* 14:20-15:00, RaySearch, [Fredrik Löfman](https://www.linkedin.com/in/fredrik-l%C3%B6fman-734883/) [[slides](/files/raysearch.pdf)]
 * 15:00-15:30, Coffee break
 * 15:30-16:10, Spotify, [Kiarash Rezahanjani](https://www.linkedin.com/in/rezahanjani/)
 * 16:10-17:00, King, [Lele Cao](https://www.linkedin.com/in/caolele/) and [Sahar Asadi](https://www.linkedin.com/in/saharasadi/)
