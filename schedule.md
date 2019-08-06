@@ -25,9 +25,9 @@ permalink: /schedule/
 * 10:30-11:15, Ericsson Research, [Ahsan Javed Awan](https://www.linkedin.com/in/ahsanjavedawan/) [[slides](/files/ericsson.pdf)]
 * 11:15-12:00, Hive Streaming, [Stefanos Antaris](https://www.linkedin.com/in/stefanosantaris/) [[slides](/files/hivestreaming.pptx)]
 * 12:00-13:00, Lunch
-* 13:00-15:00, Hackathon, [Tolga Varol](https://www.linkedin.com/in/tolgavarol/) and [Shruti Kuber](https://www.linkedin.com/in/shruti-kuber/) [[slides](https://git.drivetrust.eu/tolgav/stockholm-bdass-2019?fbclid=IwAR3XlUFIDzcexytzr57it8WfXKyyGCi2RL57azYiESW1mwFuxyiz74S1bCA)]
+* 13:00-15:00, Hackathon, [Tolga Varol](https://www.linkedin.com/in/tolgavarol/) and [Shruti Kuber](https://www.linkedin.com/in/shruti-kuber/) [[link](https://git.drivetrust.eu/tolgav/stockholm-bdass-2019?fbclid=IwAR3XlUFIDzcexytzr57it8WfXKyyGCi2RL57azYiESW1mwFuxyiz74S1bCA)]
 * 15:00-15:30, Coffee break
-* 15:30-17:00, Hackathon, [Tolga Varbol](https://www.linkedin.com/in/tolgavarol/) and [Shruti Kuber](https://www.linkedin.com/in/shruti-kuber/) [[slides](https://git.drivetrust.eu/tolgav/stockholm-bdass-2019?fbclid=IwAR3XlUFIDzcexytzr57it8WfXKyyGCi2RL57azYiESW1mwFuxyiz74S1bCA)]
+* 15:30-17:00, Hackathon, [Tolga Varbol](https://www.linkedin.com/in/tolgavarol/) and [Shruti Kuber](https://www.linkedin.com/in/shruti-kuber/) [[link](https://git.drivetrust.eu/tolgav/stockholm-bdass-2019?fbclid=IwAR3XlUFIDzcexytzr57it8WfXKyyGCi2RL57azYiESW1mwFuxyiz74S1bCA)]
 
 ## Aug. 7, 2019
 * 9:00-10:00, Crash course on Spark, [Amir H. Payberah](https://payberah.github.io/)
