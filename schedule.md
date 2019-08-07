@@ -17,7 +17,7 @@ permalink: /schedule/
 * 14:20-15:00, RaySearch, [Fredrik Löfman](https://www.linkedin.com/in/fredrik-l%C3%B6fman-734883/) [[slides](/files/raysearch.pdf)]
 * 15:00-15:30, Coffee break
 * 15:30-16:10, Spotify, [Kiarash Rezahanjani](https://www.linkedin.com/in/rezahanjani/)
-* 16:10-17:00, King, [Lele Cao](https://www.linkedin.com/in/caolele/) and [Sahar Asadi](https://www.linkedin.com/in/saharasadi/)
+* 16:10-17:00, King, [Lele Cao](https://www.linkedin.com/in/caolele/) and [Sahar Asadi](https://www.linkedin.com/in/saharasadi/) [[slides](/files/king.pdf)]
 
 ## Aug. 6, 2019
 * 9:00-10:00, AIG/Oxford University, [Reza Khorshidi](https://www.linkedin.com/in/rezakhorshidi/)
@@ -30,11 +30,11 @@ permalink: /schedule/
 * 15:30-17:00, Hackathon, [Tolga Varbol](https://www.linkedin.com/in/tolgavarol/) and [Shruti Kuber](https://www.linkedin.com/in/shruti-kuber/) [[link](https://git.drivetrust.eu/tolgav/stockholm-bdass-2019?fbclid=IwAR3XlUFIDzcexytzr57it8WfXKyyGCi2RL57azYiESW1mwFuxyiz74S1bCA)]
 
 ## Aug. 7, 2019
-* 9:00-10:00, Crash course on Spark, [Amir H. Payberah](https://payberah.github.io/) [[slides](/files/spark.pdf)]
+* 9:00-10:00, Crash course on Spark, [Amir H. Payberah](https://payberah.github.io/) [[slides](/files/spark.pdf)] [[data](/files/person.json)]
 * 10:00-10:30, Coffee break
-* 10:30-12:00, Crash course on Spark, [Amir H. Payberah](https://payberah.github.io/) [[slides](/files/spark.pdf)]
+* 10:30-12:00, Crash course on Spark, [Amir H. Payberah](https://payberah.github.io/) [[slides](/files/spark.pdf)] [[data](/files/person.json)]
 * 12:00-13:00, Lunch
-* 13:00-15:00, Crash course on Spark, [Amir H. Payberah](https://payberah.github.io/) [[slides](/files/spark.pdf)]
+* 13:00-15:00, Crash course on Spark, [Amir H. Payberah](https://payberah.github.io/) [[slides](/files/spark.pdf)] [[data](/files/person.json)]
 * 15:00-15:30, Coffee break
 * 15:30-17:00, Introduction to Machine Learning, [Anders Holst](https://www.linkedin.com/in/anders-holst-82330118/)
 * 17:00-17:10, EIT community introduction, [Jiayao Yu](https://alumni.eitdigital.eu/candidate/jiayao-yu)
