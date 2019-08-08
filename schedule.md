@@ -46,7 +46,7 @@ permalink: /schedule/
 * 12:00-13:00, Lunch
 * 13:00-15:00, Crash course on Neo4j, [Ljubica Lazarevic](https://www.linkedin.com/in/ljubicalazarevic/) and [Erik Nygren](https://www.linkedin.com/in/eriknygrens/)
 * 15:00-15:30, Coffee break
-* 15:30-17:00, Introduction to HOPS Platform, [Kim Hammar](https://www.linkedin.com/in/kim-hammar-9963aba6/)
+* 15:30-17:00, Introduction to HOPS Platform, [Kim Hammar](https://www.linkedin.com/in/kim-hammar-9963aba6/) [[slides](/files/logicalclocks.pdf)]
 
 ## Aug. 9, 2019
 * 9:00-10:00, Swedbank, [Fatemeh Rahimian](https://www.linkedin.com/in/fatemeh-rahimian-0734bb24/)
