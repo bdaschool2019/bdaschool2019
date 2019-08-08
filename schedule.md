@@ -37,7 +37,7 @@ permalink: /schedule/
 * 13:00-15:00, Crash course on Spark, [Amir H. Payberah](https://payberah.github.io/) [[slides](/files/spark.pdf)] [[data](/files/people.json)]
 * 15:00-15:30, Coffee break
 * 15:30-17:00, Introduction to Machine Learning, [Anders Holst](https://www.linkedin.com/in/anders-holst-82330118/)
-* 17:00-17:10, EIT community introduction, [Jiayao Yu](https://alumni.eitdigital.eu/candidate/jiayao-yu)
+* 17:00-17:10, EIT community introduction, [Jiayao Yu](https://alumni.eitdigital.eu/candidate/jiayao-yu) [[slides](/files/eit.pdf)]
 
 ## Aug. 8, 2019
 * 9:00-10:00, Crash course on Neo4j, [Ljubica Lazarevic](https://www.linkedin.com/in/ljubicalazarevic/) and [Erik Nygren](https://www.linkedin.com/in/eriknygrens/)
