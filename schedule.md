@@ -58,7 +58,8 @@ permalink: /schedule/
 * 15:30-17:00, Business Model Innovation and Understanding Customers, [Serdar Temiz](https://www.linkedin.com/in/serdartemiz/)
 
 ## Aug. 10, 2019
-* 9:00-19:00, Social evnet, the details are coming soon ...
+* 9:00, Meet at the reception
+* 10:00, Boat from Bosön to Djurgården and the whole day event at Gröna Lund
 
 ## Aug. 11, 2019
 * Free time!
