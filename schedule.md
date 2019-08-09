@@ -49,7 +49,7 @@ permalink: /schedule/
 * 15:30-17:00, Introduction to HOPS Platform, [Kim Hammar](https://www.linkedin.com/in/kim-hammar-9963aba6/) [[slides](/files/logicalclocks.pdf)]
 
 ## Aug. 9, 2019
-* 9:00-10:00, Swedbank, [Fatemeh Rahimian](https://www.linkedin.com/in/fatemeh-rahimian-0734bb24/)
+* 9:00-10:00, Swedbank, [Fatemeh Rahimian](https://www.linkedin.com/in/fatemeh-rahimian-0734bb24/) [[slides](/files/swedbank.pdf)]
 * 10:00-10:30, Coffee break
 * 10:30-12:00, Introduction to Stream Processing, [Paris Carbone](https://www.linkedin.com/in/paris-carbone-20752726/) and [Maximilian Michels](https://www.linkedin.com/in/maximilian-michels-3997299b/)
 * 12:00-13:00, Lunch
