@@ -51,9 +51,9 @@ permalink: /schedule/
 ## Aug. 9, 2019
 * 9:00-10:00, Swedbank, [Fatemeh Rahimian](https://www.linkedin.com/in/fatemeh-rahimian-0734bb24/) [[slides](/files/swedbank.pdf)]
 * 10:00-10:30, Coffee break
-* 10:30-12:00, Introduction to Stream Processing, [Paris Carbone](https://www.linkedin.com/in/paris-carbone-20752726/) and [Maximilian Michels](https://www.linkedin.com/in/maximilian-michels-3997299b/)
+* 10:30-12:00, Introduction to Flink and Beam, [Paris Carbone](https://www.linkedin.com/in/paris-carbone-20752726/) and [Maximilian Michels](https://www.linkedin.com/in/maximilian-michels-3997299b/) [[slides1](/files/flink.pdf)] [[slides2](/files/beam.pdf)]
 * 12:00-13:00, Lunch
-* 13:00-15:00, Introduction to Flink, [Paris Carbone](https://www.linkedin.com/in/paris-carbone-20752726/) and [Maximilian Michels](https://www.linkedin.com/in/maximilian-michels-3997299b/)
+* 13:00-15:00, Handson course on Flink, [Paris Carbone](https://www.linkedin.com/in/paris-carbone-20752726/) and [Maximilian Michels](https://www.linkedin.com/in/maximilian-michels-3997299b/) [[link](https://training.ververica.com/?fbclid=IwAR0eqCVrpJj3eqWdJ8uJshRZfe69YGf0K3_st70sHJ-nS0Vzuc0uZAhI6xw)]
 * 15:00-15:30, Coffee break
 * 15:30-17:00, Business Model Innovation and Understanding Customers, [Serdar Temiz](https://www.linkedin.com/in/serdartemiz/)
 
