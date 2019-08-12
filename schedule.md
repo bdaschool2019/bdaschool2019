@@ -40,11 +40,11 @@ permalink: /schedule/
 * 17:00-17:10, EIT community introduction, [Jiayao Yu](https://alumni.eitdigital.eu/candidate/jiayao-yu) [[slides](/files/eit.pdf)]
 
 ## Aug. 8, 2019
-* 9:00-10:00, Crash course on Neo4j, [Ljubica Lazarevic](https://www.linkedin.com/in/ljubicalazarevic/) and [Erik Nygren](https://www.linkedin.com/in/eriknygrens/)
+* 9:00-10:00, Crash course on Neo4j, [Ljubica Lazarevic](https://www.linkedin.com/in/ljubicalazarevic/) and [Erik Nygren](https://www.linkedin.com/in/eriknygrens/) [[slides](/files/neo4j.pdf)]
 * 10:00-10:30, Coffee break
-* 10:30-12:00, Crash course on Neo4j, [Ljubica Lazarevic](https://www.linkedin.com/in/ljubicalazarevic/) and [Erik Nygren](https://www.linkedin.com/in/eriknygrens/)
+* 10:30-12:00, Crash course on Neo4j, [Ljubica Lazarevic](https://www.linkedin.com/in/ljubicalazarevic/) and [Erik Nygren](https://www.linkedin.com/in/eriknygrens/) [[slides](/files/neo4j.pdf)]
 * 12:00-13:00, Lunch
-* 13:00-15:00, Crash course on Neo4j, [Ljubica Lazarevic](https://www.linkedin.com/in/ljubicalazarevic/) and [Erik Nygren](https://www.linkedin.com/in/eriknygrens/)
+* 13:00-15:00, Crash course on Neo4j, [Ljubica Lazarevic](https://www.linkedin.com/in/ljubicalazarevic/) and [Erik Nygren](https://www.linkedin.com/in/eriknygrens/) [[slides](/files/neo4j.pdf)]
 * 15:00-15:30, Coffee break
 * 15:30-17:00, Introduction to HOPS Platform, [Kim Hammar](https://www.linkedin.com/in/kim-hammar-9963aba6/) [[slides](/files/logicalclocks.pdf)]
 
