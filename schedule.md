@@ -65,18 +65,18 @@ permalink: /schedule/
 * Free time!
 
 ## Aug. 12, 2019
-* 9:00-10:00, B2C, B2B and B2BC Entrepreneurial Journeys, [Jens Ohlsson](https://www.linkedin.com/in/jens-ohlsson-968b303/)
+* 9:00-10:00, B2C, B2B and B2BC Entrepreneurial Journeys, [Jens Ohlsson](https://www.linkedin.com/in/jens-ohlsson-968b303/) [[slides](/files/santhosbaala.pptx)]
 * 10:00-10:30, Coffee break
-* 10:30-12:00, B2C, B2B and B2BC Entrepreneurial Journeys, [Jens Ohlsson](https://www.linkedin.com/in/jens-ohlsson-968b303/)
+* 10:30-12:00, B2C, B2B and B2BC Entrepreneurial Journeys, [Jens Ohlsson](https://www.linkedin.com/in/jens-ohlsson-968b303/) [[slides](/files/santhosbaala.pptx)]
 * 12:00-13:00, Lunch
 * 13:00-15:00, Intrapreneurship and how to combine the Core Tech Capabilities, [Jörgen Clevensjö](https://www.linkedin.com/in/j%C3%B6rgen-clevensj%C3%B6-a8426b7/)
 * 15:00-15:30, Coffee break
 * 15:30-17:30, Intelligent Connections, [Jörgen Clevensjö](https://www.linkedin.com/in/j%C3%B6rgen-clevensj%C3%B6-a8426b7/)
 
 ## Aug. 13, 2019
-* 9:00-10:00, How to make a killer pitch, [Tobias Vahlne](https://www.linkedin.com/in/tobiasvahlne/)
+* 9:00-10:00, How to make a killer pitch, [Tobias Vahlne](https://www.linkedin.com/in/tobiasvahlne/) [[slides](/files/pitch_training.pdf)] [[pitch template](/files/pitch_template.pdf)] [[report template](/files/business_plan_template.pdf)]
 * 10:00-10:30, Coffee break
-* 10:30-12:00, How to make a killer pitch, [Tobias Vahlne](https://www.linkedin.com/in/tobiasvahlne/)
+* 10:30-12:00, How to make a killer pitch, [Tobias Vahlne](https://www.linkedin.com/in/tobiasvahlne/) [[slides](/files/pitch_training.pdf)] [[pitch template](/files/pitch_template.pdf)] [[report template](/files/business_plan_template.pdf)]
 * 12:00-13:00, Lunch
 * 13:00-15:00, Teamwork
 * 15:00-15:30, Coffee break
