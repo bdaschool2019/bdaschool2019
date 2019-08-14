@@ -10,7 +10,7 @@ permalink: /schedule/
 * 9:30-10:00, Welcome speech, [Amir H. Payberah](https://payberah.github.io/) [[slides](/files/intro.pdf)]
 * 10:00-10:30, Coffee break
 * 10:30-11:15, Peltarion, [Anders Arpteg](https://www.linkedin.com/in/andersarpteg/) [[slides](/files/peltarion.pdf)]
-* 11:15-12:00, GreatPeople, [Boris Nordenstrom](https://www.linkedin.com/in/nordenstrom/)
+* 11:15-12:00, GreatPeople, [Boris Nordenstrom](https://www.linkedin.com/in/nordenstrom/) [[slides](/files/greatpeople.pdf)]
 * 12:00-13:00, Lunch
 * 13:00-13:40, Qamcom, [Nasim Farahini](https://www.linkedin.com/in/nasim-farahini-814a8047/) [[slides](/files/qamcom.pdf)]
 * 13:40-14:20, Racefox, [Christer Norström](https://www.linkedin.com/in/christer-norstr%C3%B6m-7859383/) [[slides](/files/racefox.pdf)]
