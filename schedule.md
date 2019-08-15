@@ -100,5 +100,10 @@ permalink: /schedule/
 * 15:00-15:30, Coffee break
 * 15:30-17:30, Pitch Rehearsal, [Jens Ohlsson](https://www.linkedin.com/in/jens-ohlsson-968b303/) and [Tobias Vahlne](https://www.linkedin.com/in/tobiasvahlne/)
 
-## Aug. 17, 2019
-* 9:00-19:00, The details are coming soon ...
+## Aug. 16, 2019
+* 10:00-11:30, Visit the [King](https://king.com/)
+* 12:00-13:00, Lunch at [SUP46](http://sup46.com/)
+* 13:00-15:30, Pitches
+* 15:30-16:30, Jury discussion
+* 16:30-17:00, Price ceremony
+* 19:00-20:45, The farewell dinner at [Hermans](https://hermans.se/en)
